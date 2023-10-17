@@ -37,12 +37,12 @@ To get started with the Monitoring Server, follow the instructions below:
    ```shell
    sudo apt -y install network-manager
 
- **Install ssh** 
+ **Install ssh**
 
    ```shell
    apt-get install openssh-server
 
- **Install Prometheus** 
+ **Install Prometheus**
 
    ```shell
    apt -y install prometheus prometheus-node-exporter
