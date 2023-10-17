@@ -31,19 +31,19 @@ To get started with the Monitoring Server, follow the instructions below:
    **Update Package**
    ```shell
     sudo apt-get update
-
+   ```
    **Install NetworkManager** 
    ```shell
    sudo apt -y install network-manager
-
+   ```
    **Install ssh**
    ```shell
    apt-get install openssh-server
-
+   ```
    **Install Prometheus**
    ```shell
    apt -y install prometheus prometheus-node-exporter
-
+   ```
 
    
 ## Configuration
