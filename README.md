@@ -5,22 +5,50 @@ Alat untuk melakukan pemantauan seluruh kinerja yang sedang berlangsung pada sua
 SysAdmin - project
 
 ## Daftar Isi
-
 1. [moiOs](#moiOs)
-2. [Service](##Service)
-3. [Installation](##Installation)
-4. [Configuration](##Configuration)
-5. [Kontribusi](#kontribusi)
-6. [Lisensi](#lisensi)
+2. [Resourece](##Resource)
+3. [Service](##Service)
+4. [Installation](##Installation)
+5. [Configuration](##Configuration)
+6. [Contribution](#Contribution)
+7. [Lisence](#Lisence)
 
-## Get Started
+## Getting Started
+
+Welcome to the Monitoring Server project! This project is designed to help you monitor and analyze your server's performance by tracking resource utilization such as CPU usage, memory usage, I/O activity, network activity, and more.
+
+To get started with the Monitoring Server, follow the instructions below:
+
+## Resource
+   - Debian 11
+
 ## Service
    - Ssh
    - NetworkManager
    - Prometheus
+
 ## Installation
-1. **Clone the Repository:** 
+ **Update Package**
+    ```shell
+    sudo apt-get update
+
+ **Install NetworkManager** 
 
    ```shell
-   git clone https://github.com/yourusername/monitoring-server.git
+   sudo apt -y install network-manager
+
+ **Install ssh** 
+
+   ```shell
+   apt-get install openssh-server
+
+ **Install Prometheus** 
+
+   ```shell
+   apt -y install prometheus prometheus-node-exporter
+
+
+   
 ## Configuration
+# Contribution
+# Lisence
