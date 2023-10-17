@@ -32,7 +32,7 @@ To get started with the Monitoring Server, follow the instructions below:
    ```shell
     sudo apt-get update
 
-   **Install NetworkManager** 
+   ###Install NetworkManager 
    ```shell
    sudo apt -y install network-manager
 
