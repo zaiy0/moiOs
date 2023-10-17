@@ -1,10 +1,10 @@
 Nim    : 22.83.0815 - TK01
 
-# moiOs
+#moiOs
 Alat untuk melakukan pemantauan seluruh kinerja yang sedang berlangsung pada suatu server adalah sebuah solusi yang sangat berguna. Dengan bantuan Server Monitoring, kita dapat memperoleh pemahaman mendalam tentang penggunaan sumber daya sistem, seperti pemantauan tingkat penggunaan CPU, penggunaan memori, aktivitas Input dan Output, pemantauan jaringan, penggunaan kapasitas penyimpanan disk, dan aspek-aspek lain yang terkait.
 SysAdmin - project
 
-## Daftar Isi
+##Daftar Isi
 
 1. [moiOs](#moiOs)
 2. [Service](##Service)
@@ -13,7 +13,7 @@ SysAdmin - project
 5. [Kontribusi](#kontribusi)
 6. [Lisensi](#lisensi)
 
-## Get Started
-## Service
-## Installation
-## Configuration
+##Get Started
+##Service
+##Installation
+##Configuration
