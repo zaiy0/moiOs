@@ -4,10 +4,10 @@ SysAdmin - project
 
 ## Daftar Isi
 1. [moiOs](#moiOs)
-2. [Resourece](##Resource)
-3. [Service](##Service)
+2. [Resourece](#Resource)
+3. [Service](#Service)
 4. [Installation](#Installation)
-5. [Configuration](##Configuration)
+5. [Configuration](#Configuration)
 6. [Contribution](#Contribution)
 7. [Lisence](#Lisence)
 
