@@ -29,12 +29,12 @@ To get started with the Monitoring Server, follow the instructions below:
 
 ## Installation
  **Update Package**
-    ```shell
+ ```shell
     sudo apt-get update
 
  **Install NetworkManager** 
 
-   ```shell
+    ```shell
    sudo apt -y install network-manager
 
  **Install ssh**
