@@ -1,5 +1,3 @@
-Nim    : 22.83.0815 - TK01
-
 # moiOs
 Alat untuk melakukan pemantauan seluruh kinerja yang sedang berlangsung pada suatu server adalah sebuah solusi yang sangat berguna. Dengan bantuan Server Monitoring, kita dapat memperoleh pemahaman mendalam tentang penggunaan sumber daya sistem, seperti pemantauan tingkat penggunaan CPU, penggunaan memori, aktivitas Input dan Output, pemantauan jaringan, penggunaan kapasitas penyimpanan disk, dan aspek-aspek lain yang terkait.
 SysAdmin - project
@@ -51,4 +49,5 @@ To get started with the Monitoring Server, follow the instructions below:
    
 ## Configuration
 # Contribution
+Nim    : 22.83.0815 - TK01
 # Lisence
