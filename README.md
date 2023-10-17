@@ -4,8 +4,7 @@ SysAdmin - project
 
 ## Daftar Isi
 1. [moiOs](#moiOs)
-2. [Getting Started](#GettingStarted)
-3. [Resourece](#Resource)
+2. [Resourece](#Resource)
 4. [Service](#Service)
 5. [Installation](#Installation)
 6. [Configuration](#Configuration)
