@@ -15,6 +15,9 @@ SysAdmin - project
 
 ## Get Started
 ## Service
+   - Ssh
+   - NetworkManager
+   - Prometheus
 ## Installation
 1. **Clone the Repository:** 
 
