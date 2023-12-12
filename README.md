@@ -40,7 +40,7 @@ To get started with the Monitoring Server, follow the instructions below:
    apt-get install openssh-server
    ```
 
-   **Install Prometheus**
+   **Install Prometheus beserta Node Exporter**
    ```shell
    apt -y install prometheus prometheus-node-exporter
    ```
