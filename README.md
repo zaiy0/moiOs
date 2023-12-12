@@ -77,8 +77,11 @@ To get started with the Monitoring Server, follow the instructions below:
    Gunakan default login:admin, password:admin
 
 # Screenshot
+   **Prometheus**
 ![Screenshot (516)](https://github.com/zaiy0/moiOs/assets/90432809/0853c343-0353-471b-a02e-f5be3f116974)
+   **Node Exporter**
 ![Screenshot (515)](https://github.com/zaiy0/moiOs/assets/90432809/fdc5098d-b3ff-40f2-a9a2-591700e75eef)
+   **Grafana**
 ![Screenshot (514)](https://github.com/zaiy0/moiOs/assets/90432809/dd1a33b6-519a-4d97-ac70-69632b641cf8)
 
 
