@@ -20,7 +20,7 @@ To get started with the Monitoring Server, follow the instructions below:
    - Debian 11
 
 ## Service
-   - Ssh
+   - SSH
    - NetworkManager
    - Prometheus
 
@@ -67,6 +67,13 @@ To get started with the Monitoring Server, follow the instructions below:
        static_configs:
          - targets: ['your_server_IP:9100']
    ```
+   Jika sudah, simpan file konfigurasi tersebut
+   
+   **Buka Grafana di browser**
+   ```shell
+   http://alamat_IP:3000
+   ```
+   Gunakan default login:admin, password:admin
 
 
 # Contribution
