@@ -46,7 +46,29 @@ To get started with the Monitoring Server, follow the instructions below:
    ```
 
    
-## Configuration
+## Configuration 
+   **Edit file konfigurasi Prometheus**
+   ```shell
+   vi /etc/prometheus/prometheus.yml
+   ```
+
+   **Konfigurasi untuk menargetkan Prometheus**
+   ```shell
+   scrape_configs:
+     - job_name: 'prometheus'
+       static_configs:
+         - targets: ['your_server_IP:9090']
+   ```
+
+   **Tambahkan konfigurasi untuk menargetkan Node Exporter**
+   ```shell
+   scrape_configs:
+     - job_name: 'node-exporter'
+       static_configs:
+         - targets: ['your_server_IP:9100']
+   ```
+
+
 # Contribution
 Nim    : 22.83.0815 - TK01
 # Lisence
