@@ -92,4 +92,9 @@ To get started with the Monitoring Server, follow the instructions below:
 
 # Contribution
 Nim    : 22.83.0815 - TK01
+
+
 # Lisence
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
