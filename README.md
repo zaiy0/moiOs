@@ -84,6 +84,11 @@ To get started with the Monitoring Server, follow the instructions below:
    **Grafana**
 ![Screenshot (514)](https://github.com/zaiy0/moiOs/assets/90432809/dd1a33b6-519a-4d97-ac70-69632b641cf8)
 
+ **Grafana Dashboard - Node Exporter Full**
+ ![image](https://github.com/zaiy0/moiOs/assets/90432809/7c70597f-8c3e-4f74-97ef-2bab395aad2a)
+
+ 
+
 
 # Contribution
 Nim    : 22.83.0815 - TK01
