@@ -18,7 +18,7 @@ Welcome to the Monitoring Server project! This project is designed to help you m
 To get started with the Monitoring Server, follow the instructions below:
 
 ## Resource
-   - Debian 11
+   - Debian 12
 
 ## Service
    - SSH
